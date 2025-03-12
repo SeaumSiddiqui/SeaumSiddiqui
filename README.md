@@ -1,6 +1,6 @@
 # About:
 ### An Aspiring Backend Developer
-I'm a Computer Science undergrad, enthusiastic about solving problems and realizing original concepts. Currently, I'm learning Java and Spring Boot, focusing on mastering REST APIs for backend development. Exploring new technologies, whether it's cloud platforms or learning a new programming language, always excites me.<br><br>I love connecting with individuals with similar interests as there's always something to learn from a great conversation. Besides writing code, you’ll find me gaming online, occasionally grinding on LeetCode, experimenting with new concepts and projects, or spending time outdoors.<br><br>Together, let's connect and make something incredible!
+I'm a Computer Science undergrad, focusing on mastering REST APIs for backend development.
 
 
 ## Socials:
