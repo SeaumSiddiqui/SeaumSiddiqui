@@ -13,7 +13,9 @@ I'm **Seaum Siddiqui**, a backend-leaning developer with a love for building cle
 - 📚 Always learning — especially about **distributed systems** and **clean architecture**
 
 ### 🧭 Explore My Work
-Visit my portfolio and blog at → [**seaumsiddiqui.com**](https://seaumsiddiqui.com)
+- 🌐 Portfolio → [**seaumsiddiqui.com**](https://seaumsiddiqui.com)  
+- ✍️ Blog → [**seaumsiddiqui.com/blogs**](https://seaumsiddiqui.com/blogs)
+
 <!--
 <p align="left">
   <a href="https://seaumsiddiqui.com" target="_blank">
