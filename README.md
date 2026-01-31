@@ -71,19 +71,25 @@ I'm **Seaum Siddiqui**, a backend-leaning developer with a love for building cle
 
 ### 📊 GitHub Snapshot
 
-<div align="center">
-  <a href="https://github.com/SeaumSiddiqui">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SeaumSiddiqui&theme=transparent" width="48%" />
-  </a>
-  <a href="https://leetcode.com/u/seaumsiddiqui/">
-    <img src="./assets//leetcode-card.svg" width="48%" />
-  </a>
-</div>
+<a href="https://github.com/SeaumSiddiqui">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SeaumSiddiqui&theme=gotham" width="48%" />
+</a>
+<a href="https://leetcode.com/u/seaumsiddiqui/">
+  <img src="https://github-readme-leetcode-card.romitsagu.com/seaumsiddiqui?theme=gotham&show=graph" width="48%" />
+</a>
 
-<p align="center">
+<a href="https://leetcode.com/u/seaumsiddiqui/">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SeaumSiddiqui&theme=gotham" width="32%" />
+</a>
+<a href="https://github.com/SeaumSiddiqui">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeaumSiddiqui&theme=gotham" width="66%" />
+</a>
+
+
+<!-- <p align="center"> -->
   <!-- <img src="https://img.shields.io/badge/GitHub_Streak-🔥%2023%20days-brightgreen?style=for-the-badge&logo=github" width="47%" /> -->
-  <img src="https://komarev.com/ghpvc/?username=SeaumSiddiqui&style=flat-square&color=blue" alt="Profile Views" />
-</p>
+  <!-- <img src="https://komarev.com/ghpvc/?username=SeaumSiddiqui&style=flat-square&color=blue" alt="Profile Views" /> -->
+<!-- </p> -->
 
 
 
