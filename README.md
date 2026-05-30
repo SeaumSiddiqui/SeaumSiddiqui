@@ -5,15 +5,15 @@
 
 ---
 
-### 💡 Hello World
+###  Hello World
 I'm **Seaum Siddiqui**, a backend-leaning developer with a love for building clean, maintainable APIs and server-side systems.
 
-- 🧠 Exploring the depths of **Java**, **Spring Boot**, and **cloud-native backend architectures**
-- ⚙️ Automating deployments, hardening servers, and optimizing database queries
-- 📚 Always learning — especially about **distributed systems** and **clean architecture**
+-  Exploring the depths of **Java**, **Spring Boot**, and **cloud-native backend architectures**
+-  Automating deployments, hardening servers, and optimizing database queries
+-  Always learning — especially about **distributed systems** and **clean architecture**
 
-### 🧭 Explore My Work
-- 🌐 Portfolio → [**seaumsiddiqui.com**](https://seaumsiddiqui.com)  
+###  Explore My Work
+- 🌐 Portfolio → [**seaumsiddiqui.com**](https://seaumsiddiqui.vercel.app)  
 - ✍️ Blog → [**seaumsiddiqui.com/blogs**](https://seaumsiddiqui.com/blogs)
 
 
@@ -25,32 +25,32 @@ I'm **Seaum Siddiqui**, a backend-leaning developer with a love for building cle
 
 ---
 
-### 🌐 Connect With Me
+###  Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/seaum-siddiqui/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="36" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://facebook.com/seaum.siddiqui" target="_blank"><img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" width="36" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/seaum-siddiqui/" target="_blank"><img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="36" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/SeaumSiddiqui" target="_blank"><img src="https://cdn.simpleicons.org/x/FFFFFF" alt="X" width="30" style="background-color: black; padding: 3px; border-radius: 3px;" /></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:your.email@example.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="36" /></a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp; -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp; -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven" width="40" height="40"/>
@@ -70,14 +70,14 @@ I'm **Seaum Siddiqui**, a backend-leaning developer with a love for building cle
 
 ---
 
-### 🎯 GitHub & LeetCode Stats
+###  GitHub Stats
 
-<a href="https://github.com/SeaumSiddiqui">
+<!-- <a href="https://github.com/SeaumSiddiqui">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SeaumSiddiqui&theme=gotham" width="49%" />
 </a>
 <a href="https://leetcode.com/u/seaumsiddiqui/">
   <img src="https://github-readme-leetcode-card.romitsagu.com/seaumsiddiqui?theme=gotham&show=recent&hide_border=false" width="49%" />
-</a>
+</a> -->
 
 <a href="https://leetcode.com/u/seaumsiddiqui/">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SeaumSiddiqui&theme=gotham" width="32%" />
