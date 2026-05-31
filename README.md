@@ -10,7 +10,7 @@ I'm **Seaum Siddiqui**, a backend-leaning developer with a love for building cle
 
 -  Exploring the depths of **Java**, **Spring Boot**, and **cloud-native backend architectures**
 -  Automating deployments, hardening servers, and optimizing database queries
--  Always learning — especially about **distributed systems** and **clean architecture**
+-  Always learning about **distributed systems** and **clean architecture**
 
 ###  Explore My Work
 - 🌐 Portfolio → [**seaumsiddiqui.com**](https://seaumsiddiqui.vercel.app)  
